@@ -1,1 +1,1 @@
-This is the second file that i added to the project.
+This is the second file that I added to the project.
